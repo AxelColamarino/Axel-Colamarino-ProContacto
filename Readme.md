@@ -167,3 +167,91 @@ Es donde se gestionan todos los problemas o consultas de los clientes que deben 
 >Ejemplo de diagrama
 
 ![image](https://github.com/AxelColamarino/README/assets/153008108/a076c8b6-0ab4-43f9-8671-e8dec4de9016)
+
+# EJERCICIO 6 #
+
+- Soluciones de Salesforce
+
+>¿Qué es Salesforce?
+
+Salesforce es una **plataforma en la nube para la gestión de relaciones con los clientes** (CRM) que proporciona una vista unificada de los clientes en una plataforma integrada para todos los departamentos de una organización, incluyendo marketing, ventas, servicio al cliente y comercio electrónico.
+
+>¿Qué es Sales Cloud?
+
+Sales Cloud es una **herramienta CRM y de ventas completa** que ofrece las funciones necesarias de automatización de ventas en un solo lugar, simplificando el proceso de ventas y mejorando la eficiencia del equipo.
+
+>¿Qué es Service Cloud?
+
+Service Cloud es una **solución integral de atención al cliente** diseñada para brindar soporte a los clientes en cualquier momento y lugar a través de una variedad de canales, incluyendo teléfono, correo electrónico, redes sociales, chat y comunidades en línea.
+
+>¿Qué es Health Cloud?
+
+Health Cloud es una plataforma especializada en la **gestión clínica de pacientes en la nube**, que facilita una comunicación más personalizada entre pacientes, proveedores y prestadores de servicios de salud, adaptándose a los procesos y datos médicos de cada paciente.
+
+>¿Qué es Marketing Cloud?
+
+Marketing Cloud es un **módulo de Salesforce** que ofrece diversas herramientas para mejorar la **interacción de las marcas con sus clientes** a través de diversos canales, permitiendo una comunicación más efectiva y personalizada.
+
+- Funcionalidades de Salesforce
+
+>¿Qué es un RecordType?
+
+Los **Record Types** en Salesforce nos permiten definir diferentes **Business Process, Pages Layouts y Picklist Values** en un determinado objeto. Así mismo, los **Record Types** nos ayudan a mostrar distintos tipos de información según el perfil del usuario.
+
+>¿Qué es un ReportType?
+
+Un **reporte** es una lista de registros que cumplen los criterios que define. Se muestra en Salesforce en filas y columnas, y se puede filtrar, agrupar o mostrar en un diagrama gráfico. Cada **reporte** se almacena en una carpeta.
+
+>¿Qué es un Page Layout?
+
+Los **diseños de página** controlan el diseño y la organización de botones, campos, s-controls, Visualforce, enlaces personalizados y listas relacionadas en páginas de registros de objetos.
+
+>¿Qué es un Compact Layout?
+
+Un **diseño compacto** muestra los campos clave de un registro de un vistazo en la aplicación móvil Salesforce, Lightning Experience y en las integraciones de Outlook y Gmail.
+
+>¿Qué es un Perfil?
+
+Los **perfiles** definen cómo acceden los usuarios a objetos y datos y qué pueden hacer en la aplicación.
+
+>¿Qué es un Rol?
+
+Los **roles** controlan el nivel de visibilidad que un usuario tiene sobre los datos de su organización. Usuarios en cualquier función dada pueden ver, editar, e informar sobre todos los datos para funciones por debajo de ellos en la jerarquía de roles.
+
+>¿Qué es un Validation Rule?
+
+Las **reglas de validación** verifican que los datos que un usuario introduce en un registro cumplen con las normas que especifica antes de que el usuario guarde el registro. Una **regla de validación** puede contener una fórmula o expresión que evalúa los datos en uno o más campos y ofrece un valor “Verdadero” o “Falso”.
+
+>¿Qué diferencia hay entre una relación Master Detail y Lookup?
+
+En las relaciones de búsqueda se usan cuando los objetos están relacionados solo en ciertos casos. Los objetos de las relaciones de búsqueda suelen funcionar como objetos independientes que tienen sus propias fichas en la interfaz de usuario. En las relaciones del tipo principal-detalle, el objeto de detalle no funciona de manera independiente. En realidad, este objeto depende del objeto principal. Por lo tanto, si se elimina un registro del objeto principal, también se eliminarán todos los registros relacionados del objeto de detalle. A la hora de crear relaciones principal-detalle, siempre se crea el campo de relación en el objeto de detalle.
+
+>¿Qué es un Sandbox?
+
+Un **Sandbox** es una copia de su organización en un entorno aislado que puede usar para distintos fines, como pruebas y capacitación. Los **sandbox** están completamente aislados de su organización de producción de Salesforce.
+
+>¿Qué es un ChangeSet?
+
+Un **conjunto de cambios entrantes** es un conjunto de cambios que se ha enviado desde otra organización de Salesforce a la organización en la que ha iniciado sesión. Un **conjunto de cambios** se debe implementar para que los cambios surtan efecto.
+
+>¿Para qué sirve el import Wizard de Salesforce?
+
+**Data Import Wizard** es una herramienta de carga de datos integrada en Salesforce para todas las ediciones.
+
+>¿Para qué sirve la funcionalidad Web to Lead?
+
+Puede utilizar los **formularios Web-to-Lead** para definir una campaña o fuente de clientes potenciales colocando valores dentro de los campos ocultos. Estos valores jugarán un papel clave en el respaldo de las acciones automatizadas una vez que los clientes potenciales lleguen a Salesforce.
+
+>¿Para qué sirve la funcionalidad Web to Case?
+
+Recopile las solicitudes de servicio de atención al cliente directamente del sitio web de su empresa y genere automáticamente casos nuevos con **Caso Web**.
+
+>¿Para qué sirve la funcionalidad Omnichannel?
+
+**Omni- canal** es una función personalizable y flexible que se puede configurar de forma declarativa en Salesforce, es decir, sin necesidad de escribir código. **OmniCanal** ayuda al enrutamiento automático de diferentes tipos de elementos de trabajo (como casos y clientes potenciales) a los agentes.
+
+>¿Para qué sirve la funcionalidad Chatter?
+
+**Chatter** es una aplicación de colaboración en tiempo real de Salesforce que permite a sus usuarios trabajar juntos, comunicarse y compartir información.
+
+
