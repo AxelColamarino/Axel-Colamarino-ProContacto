@@ -109,3 +109,10 @@ REST es un estilo de arquitectura para sistemas distribuidos en la web. Los serv
 Los encabezados (headers) en una solicitud HTTP son metadatos adicionales enviados junto con la solicitud que proporcionan información sobre la misma. Estos encabezados contienen detalles como el tipo de navegador del cliente, el tipo de contenido aceptado, la codificación de caracteres, las cookies, entre otros.
 
 El encabezado "Content-Type" se utiliza para indicar el tipo de medio del contenido que se envía en el cuerpo de la solicitud o de la respuesta. Es decir, especifica el formato de los datos que se están enviando o recibiendo. Por ejemplo, si se está enviando un formulario HTML, el tipo de contenido puede ser "application/x-www-form-urlencoded". Si se está enviando un objeto JSON, el tipo de contenido puede ser "application/json". Esto permite al servidor entender cómo interpretar y procesar los datos recibidos de manera adecuada.
+
+# EJERCICIO 3 #
+
+>1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+
+![image](https://github.com/AxelColamarino/README/assets/153008108/e17a07f3-1924-4a41-bfbe-7dc5249ea23d)
+
