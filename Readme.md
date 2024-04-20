@@ -129,3 +129,37 @@ La diferencia que hay es que despues de hacer el ultimo GET mis datos figuran en
 # EJERCICIO 4 #
 
 [MODULOS DE TRAILHEAD](https://www.salesforce.com/trailblazer/v6r6hgwtxgz0siv2ir)
+
+# EJERCICIO 5 #
+
+>Lead (Prospecto):
+
+Aquí se registran los posibles clientes interesados en los productos o servicios de la empresa. Los datos almacenados incluyen: Nombre completo, Nombre de la empresa, Ubicación, Dirección de correo electrónico, Estado del prospecto, Fecha de creación, Propietario asignado.
+
+>Account (Cuenta):
+
+Es el registro de las empresas con las que la empresa tiene una relación comercial. Los datos almacenados incluyen: Nombre de la empresa, Sitio web, Dirección de facturación, Número de teléfono, Tipo de empresa, Propietario asignado.
+
+>Contact (Contacto):
+
+Es el registro de los individuos que trabajan en las empresas con las que la empresa tiene relación. Los datos almacenados incluyen: Nombre completo, Nombre de la empresa, Cargo, Teléfono, Correo electrónico, Propietario asignado.
+
+>Opportunity (Oportunidad):
+
+Aquí se registran las posibles ventas que pueden convertirse en ingresos para la empresa. Los datos almacenados incluyen: Nombre de la oportunidad, Nombre de la empresa, Monto, Fecha estimada de cierre, Etapa del proceso, Propietario asignado de la oportunidad.
+
+>Product (Producto):
+
+Es el registro que contiene detalles específicos sobre los productos ofrecidos por la empresa. Los datos almacenados incluyen: Nombre del producto, Código del producto, Propietario asignado.
+
+>PriceBook (Libro de precios):
+
+Aquí se detallan los precios de los productos ofrecidos por la empresa. Los datos almacenados incluyen: Nombre del catálogo de precios, Descripción, Propietario asignado.
+
+>Asset (Activo):
+
+Es el registro que contiene información sobre un activo propiedad de la empresa. Los datos almacenados incluyen: Contacto asociado, Empresa asociada, Estado, Número de serie, Propietario del activo, Ubicación.
+
+>Case (Caso):
+
+Es donde se gestionan todos los problemas o consultas de los clientes que deben ser resueltos. Los datos almacenados incluyen: Número del caso, Nombre del contacto afectado, Asunto, Estado de prioridad, Fecha y hora de apertura, Propietario asignado del caso.
