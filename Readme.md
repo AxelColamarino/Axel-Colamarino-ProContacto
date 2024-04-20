@@ -126,6 +126,6 @@ El encabezado "Content-Type" se utiliza para indicar el tipo de medio del conten
 
 La diferencia que hay es que despues de hacer el ultimo GET mis datos figuran en el Servidor.
 
-#EJERCICIO 4#
+# EJERCICIO 4 #
 
 [MODULOS DE TRAILHEAD](https://www.salesforce.com/trailblazer/v6r6hgwtxgz0siv2ir)
