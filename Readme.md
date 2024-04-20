@@ -10,31 +10,31 @@ HTTP establece una serie de métodos de solicitud que especifican la acción que
 
 Los verbos más conocidos son:
 
-# GET:
+ GET:
 Este método solicita una representación de un recurso específico. Las solicitudes GET solo recuperan datos.
 
-# HEAD:
+ HEAD:
 Pide una respuesta idéntica a la de una solicitud GET, pero sin el cuerpo de la respuesta.
 
-# POST:
+ POST:
 Envía datos para ser procesados por el recurso identificado en la URL de la línea de petición. Los datos se incluirán en el cuerpo de la solicitud. Se utiliza principalmente para crear un nuevo recurso, cuya naturaleza está especificada por la cabecera Content-Type.
 
-# PUT:
+ PUT:
 Envía datos al servidor, pero a diferencia del método POST, la URI de la línea de petición no hace referencia al recurso que los procesará, sino que identifica a los propios datos.
 
-# DELETE:
+ DELETE:
 Borra un recurso específico.
 
-# CONNECT:
+ CONNECT:
 Se utiliza para verificar si se tiene acceso a un host. No necesariamente la solicitud llega al servidor. Este método se utiliza principalmente para verificar si un proxy nos da acceso a un host bajo condiciones especiales, como por ejemplo "corrientes" de datos bidireccionales encriptadas.
 
-# OPTIONS:
+ OPTIONS:
 Devuelve los métodos HTTP que el servidor soporta para una URL específica. Esto puede ser utilizado para verificar la funcionalidad de un servidor web mediante la solicitud en lugar de un recurso específico.
 
-# TRACE:
+ TRACE:
 Realiza una prueba de bucle de retorno de mensaje a lo largo de la ruta al recurso de destino.
 
-# PATCH:
+ PATCH:
 Su función es similar a PUT, el cual sobrescribe completamente un recurso. Se utiliza para actualizar de manera parcial una o varias partes.
 
 
