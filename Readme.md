@@ -166,4 +166,4 @@ Es donde se gestionan todos los problemas o consultas de los clientes que deben 
 
 >Ejemplo de diagrama
 
-![image](https://github.com/AxelColamarino/README/assets/153008108/ce51abf2-d021-4d4a-b3df-e01ddbd2a4b8)
+![image](https://github.com/AxelColamarino/README/assets/153008108/a076c8b6-0ab4-43f9-8671-e8dec4de9016)
