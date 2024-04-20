@@ -116,3 +116,10 @@ El encabezado "Content-Type" se utiliza para indicar el tipo de medio del conten
 
 ![image](https://github.com/AxelColamarino/README/assets/153008108/e17a07f3-1924-4a41-bfbe-7dc5249ea23d)
 
+>2.	Realizar un request POST a la URL anterior, y con body:
+![image](https://github.com/AxelColamarino/README/assets/153008108/0e99ffff-1559-4ba4-a636-4060a0e48ac0)
+
+>3.	Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+![image](https://github.com/AxelColamarino/README/assets/153008108/14d4a431-97ee-47e9-8091-d8b9e6a3de7d)
+
+La diferencia que hay es que despues de hacer el ultimo GET mis datos figuran en el Servidor.
