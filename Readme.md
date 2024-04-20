@@ -163,3 +163,7 @@ Es el registro que contiene información sobre un activo propiedad de la empresa
 >Case (Caso):
 
 Es donde se gestionan todos los problemas o consultas de los clientes que deben ser resueltos. Los datos almacenados incluyen: Número del caso, Nombre del contacto afectado, Asunto, Estado de prioridad, Fecha y hora de apertura, Propietario asignado del caso.
+
+>Ejemplo de diagrama
+
+![image](https://github.com/AxelColamarino/README/assets/153008108/ce51abf2-d021-4d4a-b3df-e01ddbd2a4b8)
