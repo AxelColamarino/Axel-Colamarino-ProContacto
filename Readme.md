@@ -254,4 +254,61 @@ Recopile las solicitudes de servicio de atención al cliente directamente del si
 
 **Chatter** es una aplicación de colaboración en tiempo real de Salesforce que permite a sus usuarios trabajar juntos, comunicarse y compartir información.
 
+- Conceptos generales
 
+>¿Qué significa SaaS?
+
+El **software como servicio** (SaaS) es un modelo de entrega de software basado en la nube en el que el proveedor de la nube desarrolla y mantiene el software de las aplicaciones en la nube, proporciona actualizaciones automáticas del mismo y lo pone a disposición de sus clientes a través de Internet con un sistema de pago por uso.
+
+>¿Salesforce es Saas?
+
+No, Salesforce es una compañía de PaaS.
+
+>¿Qué significa que una solución sea Cloud?
+
+**Cloud computing** es la disponibilidad bajo demanda de recursos de computación como servicios a través de Internet. Esta tecnología evita que las empresas tengan que encargarse de aprovisionar, configurar o gestionar los recursos y permite que paguen únicamente por los que usen.
+
+>¿Qué significa que una solución sea On-Premise?
+
+El término **on-premises** se refiere al hecho de que los titulares de la licencia instalan el software en su propio entorno informático, sin recurrir a la nube o necesitar acceso a internet.
+
+>¿Qué es un pipeline de ventas?
+
+El **pipeline de ventas** se refiere a cada uno de los pasos de su proceso de ventas que sigue un representante de ventas para llevar una venta desde el principio hasta el final.
+
+>¿Qué es un funnel de ventas?
+
+El **embudo de ventas** es una forma de medir y conocer mucho mejor a tus clientes potenciales o buyer persona. Abarca todas las actividades, desde atraer nuevos visitantes hasta la generación de ventas con una estrategia de Inbound Marketing incrementando así la facturación mensual de tu negocio.
+
+>¿Qué significa Customer Experience?
+
+La **experiencia del cliente** es cómo se relaciona una empresa con sus clientes en todos los aspectos del recorrido de compra, desde el marketing hasta las ventas y el servicio al cliente pasando por cada punto intermedio. En gran parte, es la suma total de todas las interacciones que un cliente tiene con tu marca.
+
+>¿Qué significa omnicanalidad?
+
+La **omnicanalidad** es una estrategia de marketing que crea experiencias valiosas entre una empresa o negocio y sus clientes, a través de todos los medios de contacto que tiene vigentes, ya sean físicos o digitales.
+
+>¿Qué significa que un negocio sea B2B? ¿Qué significa que un negocio sea B2C? ¿Qué es un KPI?
+
+El **B2B (business to business)** es el modelo de negocio en el que se realizan transacciones comerciales entre empresas. En cambio, en el modelo **B2C (business to consumer)** esas transacciones se efectúan entre negocios y los consumidores.
+El **KPI (Key Performance Indicator o, en Español, Indicador Clave de Rendimiento)** es un sistema de medición que, expresado normalmente en un porcentaje, nos dice el grado de progreso o cumplimiento de un objetivo de la empresa.
+
+>¿Qué es una API y en qué se diferencia de una Rest API?
+
+Por lo general, la **API** sigue el formato de aplicación a aplicación, mientras que **REST** sigue una estructura diferente: Cliente-Servidor. El cliente y el servidor están evolucionando de forma independiente, proporcionando más flexibilidad en el trabajo.
+
+>¿Qué es un Proceso Batch?
+
+El **modo de lotes** ejecuta una serie de procesos de Cargador de datos en un orden concreto utilizando un archivo por lotes. Puede volver a ejecutar la misma secuencia de procesos utilizando un archivo
+
+>¿Qué es Kanban?
+
+La metodología **Kanban** se implementa por medio de tableros Kanban. Se trata de un método visual de gestión de proyectos que permite a los equipos visualizar sus flujos de trabajo y la carga de trabajo. En un tablero **Kanban**, el trabajo se muestra en un proyecto en forma de tablero organizado por columnas.
+
+>¿Qué es un ERP?
+
+La **planificación de recursos empresariales**, también conocida como ERP, es un sistema que ayuda a automatizar y administrar los procesos empresariales de distintas áreas: finanzas, fabricación, venta al por menor, cadena de suministro, recursos humanos y operaciones.
+
+>¿Salesforce es un ERP?
+
+Salesforce es un CRM ya que se involucra en la gestión de las relaciones con los clientes, mientras que el **ERP** se ocupa de la planificación de los recursos empresariales.
