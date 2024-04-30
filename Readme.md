@@ -312,3 +312,26 @@ La **planificación de recursos empresariales**, también conocida como ERP, es 
 >¿Salesforce es un ERP?
 
 Salesforce es un CRM ya que se involucra en la gestión de las relaciones con los clientes, mientras que el **ERP** se ocupa de la planificación de los recursos empresariales.
+
+# Ejercicio 7 #
+Ingresamos en Object Manager para acceder al asistente de importacion de datos.
+![Paso 1](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/b6b45653-7cd5-45c1-bf8e-90e9ab7d21fc)
+
+Iniciamos el Asistente.
+![Paso 2](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/dcf4086b-20f3-4448-9d61-6d9875ba999e)
+
+Seleccionamos las Opciones y escojemos el Archivo CSV anteriormente separado del archivo principal.
+![Paso 3](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/44fc6ab2-554c-4d8a-a0b9-5c2861269789)
+
+Carga del archivo, hay que crear y mapear los correspondientes campos.
+![Paso 4](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/3fe10f1b-ad40-4145-8ba7-f3dd99125422)
+
+Campos creados y mapeados.
+![Paso 5](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/b221bdfe-1c5a-40c5-82ac-a8fcf6780479)
+
+Campos cargados, Revisar antes de importar.
+![Paso 6](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/54454508-2fe7-4db1-b5ae-afa625cb7c2b)
+
+Carga Exitosa con 0 errores.
+![Paso 7](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/10e14a39-7c81-4d5c-8b6f-0ab0784924d5)
+
