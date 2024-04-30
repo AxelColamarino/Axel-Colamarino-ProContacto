@@ -335,3 +335,30 @@ Campos cargados, Revisar antes de importar.
 Carga Exitosa con 0 errores.
 ![Paso 7](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/10e14a39-7c81-4d5c-8b6f-0ab0784924d5)
 
+Captura de cuentas con todos los campos
+![Paso 8](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/6c56aea8-b8ea-4548-8bf9-5cc12cd38e1e)
+
+Mostrando el resto de campos, ya que solo hay capacidad para 15.
+![Paso 9](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/f2b276bd-e979-4116-a9d5-6efcb5a1d399)
+
+Ahora sigue relacionar el registro de oportunidades con el id de las cuentas ya cargadas exitosamente, para esto no saque screen pero contare el paso a paso, primero ingrese un nuevo campo a ACCOUNT, un campo Formula, en donde ingrese una formula avanzada ya prediseñada llamada CASESAFEID, en donde le otorgaba a cada cuenta un ID de 18 digitos Alphanumerico, despues de esto exporte los registros de Cuentas con todos los datos de todos los campos. En un Excel copie y pegue el ID y el nombre de cada cuenta ya que serian los unicos datos que necesitaria, procedo a hacer la formula BUSCARX desde el CSV de Oportunidades para buscar aquellos nombres de cuentas que aparecen en el archivo que exporte de cuentas para coincidir la busqueda con su correspondiente ID y asi reemplazarlo en el CSV de oportunidades. Una vez hecho esto, puedo proceder con el DATALOADER.
+
+Procedo a logearme
+![Paso 1](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/9907a792-afad-4b2e-856d-2304b290f057)
+![Paso 2](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/3329df41-ff06-47b5-ad70-65922ab29150)
+
+Elijo el proceso de OPPORTUNITY
+![Paso 3](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/1be5fca6-5f39-4199-a63b-b7e032971b33)
+
+Reconoce el archivo exitosamente.
+![Paso 2](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/78399374-8f21-4f3e-accf-e918c9359a28)
+
+Mapeo los campos correspondientes
+![Paso 3](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/6396e8a0-0a43-4cf4-a17b-50669697deba)
+
+Carga exitosa pero con errores, estos errores se deben a que en el archivo CSV hay muchas celdas extras vacias cargadas para subirse, me di cuenta de este error al abrir el CSV en formato TXT y ver que debajo de la informacion importante habia muchas lineas en este formato ",,,," unas 915 lineas, a eso se debe el error, pero sacando eso, se subio todo con exito.
+![Paso 4](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/5530fb7a-3d88-44d0-9ca6-53a68ae7549b)
+
+Vista de oportunidades 
+![Paso 5](https://github.com/AxelColamarino/Axel-Colamarino-ProContacto/assets/153008108/59c1d7a5-bb2b-4a4d-9939-0b06f3a07627)
+
